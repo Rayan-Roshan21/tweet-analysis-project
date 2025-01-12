@@ -1,7 +1,7 @@
 
 # Data Science Portfolio: Tweet Analysis
 
-This repository contains two Python scripts demonstrating data science skills in tweet analysis. These projects were originally developed as part of Codecademy's portfolio-building exercises and have been refined for showcasing to potential recruiters.
+This repository contains two Python scripts demonstrating data science skills in tweet analysis. These projects were originally developed as part of Codecademy's portfolio-building exercises.
 
 ## Scripts Overview
 
@@ -29,7 +29,7 @@ This repository contains two Python scripts demonstrating data science skills in
 1. Clone the repository.
 2. Ensure you have Python 3.6+ installed.
 3. Install the required libraries using `pip install -r requirements.txt`.
-4. Place the necessary JSON datasets (`random_tweets.json`, `new_york.json`, `london.json`, `paris.json`) in the same directory as the scripts.
+4. Place the necessary JSON datasets (`random_tweets.json`, `new_york.json`, `london.json`, `paris.json`) in the same directory as the scripts. These datasets are included in the zip file provided.
 5. Run the scripts:
    - `python viral_tweets.py`
    - `python tweet_location.py`
